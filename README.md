@@ -1,6 +1,9 @@
 # cld2
---
+DEPRECATED for whatlanggo: https://github.com/abadojack/whatlanggo
+
+```
     import "cld2"
+```
 
 Package cld2 implements language detection using the Compact Language Detector.
 
